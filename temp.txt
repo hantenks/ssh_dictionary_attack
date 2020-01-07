@@ -1,0 +1,2 @@
+spawn ssh hantenks@172.16.114.175
+hantenks@172.16.114.175's password: 
